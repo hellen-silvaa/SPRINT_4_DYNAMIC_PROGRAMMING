@@ -10,7 +10,7 @@
 
 ## Código no Github
 
-[CÓDIGO NO COLAB (Link de Exemplo)](https://colab.research.google.com/drive/1u7DwrIhKxBQDeZrykE3fN9cXobE37d3Z?usp=sharing)
+[CÓDIGO](https://colab.research.google.com/drive/1u7DwrIhKxBQDeZrykE3fN9cXobE37d3Z?usp=sharing)
 
 ---
 
