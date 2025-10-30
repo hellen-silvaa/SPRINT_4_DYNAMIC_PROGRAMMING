@@ -8,9 +8,9 @@
 * 557397 - Lorenzo Adinolfi Acquesta
 * 558859 - Wendell Dos Santos Silva
 
-## Código no Github
+## Código no Github e no Colab
 
-[CÓDIGO](https://colab.research.google.com/drive/1u7DwrIhKxBQDeZrykE3fN9cXobE37d3Z?usp=sharing)
+[COLAB](https://colab.research.google.com/drive/1u7DwrIhKxBQDeZrykE3fN9cXobE37d3Z?usp=sharing)
 
 ---
 
