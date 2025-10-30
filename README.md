@@ -1,6 +1,6 @@
 # CHALLENGE Sprint 4: Otimização de Estoque com Programação Dinâmica
 
-## Identificação do Grupo — 2ESR
+## Engenharia de Software — 2ESR
 
 * 558385 - Alexia Ramalho Izidio Dos Santos
 * 554746 - Beatriz Vieira de Novais
